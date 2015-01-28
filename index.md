@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The Pash-Project is an Open Source reimplementation of Windows PowerShell on Mono.
+The Pash-Project is an Open Source reimplementation of [Windows PowerShell](http:/microsoft.com/powershell) on Mono.
 
 Due to the size/scope of PowerShell itself, Pash has a long ways to go. However you may be surprised at how active some contributors to the project are and how useful the project can actually be in certain contexts.
 
